@@ -8,6 +8,6 @@ Modelos de programacion 2
 
 Integrantes
 
--Nicolas Niño Pineda  20162020116
--
--
+-Nicolas Niño Pineda               20162020116
+-Nicolas Andres Garzon Vasquez
+-John Jairo Lancheros rangel       20162020077
